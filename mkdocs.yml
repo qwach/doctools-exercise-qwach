@@ -6,5 +6,3 @@ nav:
         - 'Getting Started': 'how-to.md'
 repo_url: https://github.com/qwach/doctools-exercise-qwach
 site_author: qwach
-theme:
-    name: bootstrap386
