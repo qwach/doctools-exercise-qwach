@@ -2,6 +2,9 @@
 #include <iostream>
 #include <boost/container/flat_set.hpp>
 
+/**
+ * Adds a few numbers to a Boost flat set, some repeatedly, and displays the contents of the result.
+ */
 void modifyAndPrintSets() {
   //Different ways of initializing the flat_set container
   boost::container::flat_set<int> s1;

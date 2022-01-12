@@ -3,6 +3,10 @@
 #include "yamlParser/yamlParser.hpp"
 #include <iostream>
 
+/**
+ * The main method, which just calls each of the implemented functions in sequence.
+ *
+ */
 int main(int argc, char *argv[])
 {
   std::cout << "Let's fight with CMake, Docker, and some dependencies!" << std::endl << std::endl;

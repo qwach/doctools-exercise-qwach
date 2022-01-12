@@ -5,6 +5,10 @@
 #include <boost/filesystem.hpp>
 using namespace boost::filesystem;
 
+/**
+ * Uses the Boost filesystem module to obtain and display some information about the current path.
+ *
+ */
 void inspectDirectory()
 {
 
